@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabnamfardish
-- 👀 I’m interested in Programing.
-- 🌱 I’m currently learning C, Python and JAVA.
+- 👀 I’m interested in Programing & Machine Learning.
+- 🌱 I’m currently learning C, c++ Python and JAVA.
 - 📫 How to reach me (Instagram- @sabnam.03)
 
 <!---
